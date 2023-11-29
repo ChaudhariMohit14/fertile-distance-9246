@@ -1,6 +1,9 @@
 # Freecraft
+
 Freecraft is a project that aims to replicate the functionality of Flipkart, an e-commerce platform for clothing, appliances, groceries, and gadgets.
+
 ## Features
+
 #### User Authentication:    
 Users can create accounts, log in, and log out to access personalized features and perform actions such as adding products to the cart or wishlist.
 #### Sorting and Filtering: 
